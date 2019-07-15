@@ -1,0 +1,28 @@
+{
+
+"images": [
+    "pig-wrong.png"
+],
+
+"frames": [
+    [1, 1, 210, 240, 0, 0, 0],
+    [213, 1, 210, 240, 0, 0, 0],
+    [425, 1, 210, 240, 0, 0, 0],
+    [637, 1, 210, 240, 0, 0, 0],
+    [849, 1, 210, 240, 0, 0, 0],
+    [1061, 1, 210, 240, 0, 0, 0],
+    [1273, 1, 210, 240, 0, 0, 0],
+    [1485, 1, 210, 240, 0, 0, 0],
+    [1697, 1, 210, 240, 0, 0, 0]
+],
+
+"animations": {
+    "猪魔九错": { "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:a21ac80fb59b59402773457ffede1fcb:56be2f43b9ca6353484f4a84066ba13a:8908ce429a81e87257d0982e93c6ff80$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

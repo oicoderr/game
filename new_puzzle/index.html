@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>拼图</title>
+  <link href="css/style.css" rel="stylesheet" type="text/css"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0 minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+</head>
+<body>
+
+<div id="canvas_parent">
+  <img id="coverImg" src="img/bg.png">
+  <canvas id="gameCanvas" width="1024" height="672"></canvas>
+</div>
+
+<script type="text/javascript" src="js/createjs-2015.11.26.min.js"></script>
+<script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="js/loaderandsizer.js"></script>
+<script type="text/javascript" src="data/data.js"></script>
+<script type="text/javascript" src="js/preLoad.js"></script>
+<script type="text/javascript" src="js/game_dragRotate.js" ></script>
+<script type="text/javascript" src="js/index.js"></script>
+
+<!-- <script type="text/javascript">
+  window.onload = function(){
+    // setTimeout(function(){ //延迟5秒
+    var body = document.getElementsByTagName('body')[0];
+    var scr = document.createElement('script');//创建一个script节点
+    scr.setAttribute('src','js/game_dragRotate.js'); //给script节点添加路径
+    body.appendChild(scr); 
+    // },500); 
+  }
+</script> -->
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    load();
+  })
+</script>
+</body>
+</html>

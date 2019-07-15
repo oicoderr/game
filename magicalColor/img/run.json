@@ -1,0 +1,27 @@
+{
+
+"images": [
+    "run.png"
+],
+
+"frames": [
+    [1, 1, 160, 180, 0, 0, 0],
+    [163, 1, 160, 180, 0, 0, 0],
+    [325, 1, 160, 180, 0, 0, 0],
+    [487, 1, 160, 180, 0, 0, 0],
+    [649, 1, 160, 180, 0, 0, 0],
+    [811, 1, 160, 180, 0, 0, 0],
+    [973, 1, 160, 180, 0, 0, 0],
+    [1135, 1, 160, 180, 0, 0, 0]
+],
+
+"animations": {
+    "run": { "frames": [0, 1, 2, 3, 4, 5, 6, 7] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:23b19bb17932c1f41ae8a2edc0a7613b:cd31b0a81af0266ae0fa4612efbf8d76:0bfa41ad2432204f88f9f54b9f6b3241$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

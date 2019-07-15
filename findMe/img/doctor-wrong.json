@@ -1,0 +1,31 @@
+{
+
+"images": [
+    "doctor-wrong.png"
+],
+
+"frames": [
+    [1, 1, 220, 300, 0, 0, 0],
+    [223, 1, 220, 300, 0, 0, 0],
+    [445, 1, 220, 300, 0, 0, 0],
+    [667, 1, 220, 300, 0, 0, 0],
+    [889, 1, 220, 300, 0, 0, 0],
+    [1111, 1, 220, 300, 0, 0, 0],
+    [1333, 1, 220, 300, 0, 0, 0],
+    [1555, 1, 220, 300, 0, 0, 0],
+    [1777, 1, 220, 300, 0, 0, 0],
+    [1999, 1, 220, 300, 0, 0, 0],
+    [2221, 1, 220, 300, 0, 0, 0],
+    [2443, 1, 220, 300, 0, 0, 0]
+],
+
+"animations": {
+    "博士错": { "frames": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:e0d924df41f4d0e13a60e9fda5916592:ff32bd005649b3a9ec61f6ba359552fc:691b6081b4d24dbf543eaf8d8e3afee9$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
